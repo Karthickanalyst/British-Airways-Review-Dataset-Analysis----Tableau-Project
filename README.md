@@ -1,6 +1,6 @@
 # British-Airways-Review-Dataset-Analysis----Tableau-Project
 
-This project presents an interactive Tableau dashboard analyzing airline customer reviews from 2016 to 2023. It focuses on various aspects of passenger satisfaction, including cabin service, food, entertainment, and aircraft performance. The dataset was synthetically generated using [Mockaroo](https://www.mockaroo.com/) and meets the criteria for the KGiSL Tableau Reinforcement Project.
+This project presents an interactive Tableau dashboard analyzing airline customer reviews from 2016 to 2023. It focuses on various aspects of passenger satisfaction, including cabin service, food, entertainment, and aircraft performance. 
 
 ---
 
@@ -83,4 +83,8 @@ This project strengthened skills in:
 - Tableau dashboard design
 - Storytelling through data
 - Using calculated fields and interactive elements
+
+## Author
+- **Karthick.T**
+- **Date** - 15/03/2025
 
